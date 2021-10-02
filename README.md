@@ -1,1 +1,1 @@
-# P4
+Project4 - Curious Katie, my first algorithm app.
